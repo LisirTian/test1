@@ -7,6 +7,5 @@ aaaa
 sddsf
 ddddddaa
 ddddd
-bbbbsss
-aaaaadddd
-ssssvvv
+aaa
+ddd
